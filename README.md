@@ -18,9 +18,9 @@ This repository provides a set of **optimized and reusable components** that hel
 ## 🗂 Navigation
 
 ### 🔧 Utility Functions
-- **🔒 Encryption**
-  -![End-to-End Encryption (AES, RSA)](https://github.com/cp-pratik-k/flutter-codelab/blob/main/Encryptions/end_to_end_encryption.dart)
-  -![Cypher Encryption](https://github.com/cp-pratik-k/flutter-codelab/blob/main/Encryptions/cipher_encryption.dart)
+- **🔒 Encryption**    
+  - [End-to-End Encryption (AES, RSA)](https://github.com/cp-pratik-k/flutter-codelab/blob/main/Encryptions/end_to_end_encryption.dart)
+  - [Cypher Encryption](https://github.com/cp-pratik-k/flutter-codelab/blob/main/Encryptions/cipher_encryption.dart)
 
 ---
 
