@@ -17,7 +17,7 @@ This repository provides a set of **optimized and reusable components** that hel
 
 ## 🗂 Navigation
 
-> ### Custom Components   
+### 🛠 Custom Components   
   - [Pie Chart](https://github.com/cp-pratik-k/flutter-codelab/blob/main/custom-components/customizable_pie_chart.dart)
 
 ### 🔧 Utility Functions
