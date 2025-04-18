@@ -18,12 +18,12 @@ This repository provides a set of **optimized and reusable components** that hel
 ## 🗂 Navigation
 
 ### 🛠 Custom Components   
-  - [Pie Chart](https://github.com/cp-pratik-k/flutter-codelab/blob/main/custom-components/customizable_pie_chart.dart)
+  - ![Pie Chart](https://github.com/cp-pratik-k/flutter-codelab/raw/main/Assets/pie_chart.gif) - [Pie Chart](https://github.com/cp-pratik-k/flutter-codelab/blob/main/custom-components/customizable_pie_chart.dart)
 
 ### 🔧 Utility Functions
 - **🔒 Encryption**    
-  - [End-to-End Encryption (AES, RSA)](https://github.com/cp-pratik-k/flutter-codelab/blob/main/Encryptions/end_to_end_encryption.dart)
-  - [Cypher Encryption](https://github.com/cp-pratik-k/flutter-codelab/blob/main/Encryptions/cipher_encryption.dart)
+  - [End-to-End Encryption (AES, RSA)](https://github.com/cp-pratik-k/flutter-codelab/blob/main/encryptions/end_to_end_encryption.dart)
+  - [Cypher Encryption](https://github.com/cp-pratik-k/flutter-codelab/blob/main/encryptions/cipher_encryption.dart)
 
 ---
 
