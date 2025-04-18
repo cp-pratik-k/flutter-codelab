@@ -18,7 +18,7 @@ This repository provides a set of **optimized and reusable components** that hel
 ## 🗂 Navigation
 
 ### 🛠 Custom Components   
-  - <img src="https://github.com/cp-pratik-k/flutter-codelab/raw/main/assets/pie_chart.gif" width="200" alt="Pie Chart" /> - [Pie Chart](https://github.com/cp-pratik-k/flutter-codelab/blob/main/custom-components/customizable_pie_chart.dart)
+<img src="https://github.com/cp-pratik-k/flutter-codelab/raw/main/Assets/pie_chart.gif" width="200" alt="Pie Chart" /> [Pie Chart](https://github.com/cp-pratik-k/flutter-codelab/blob/main/custom-components/customizable_pie_chart.dart)
 
 ### 🔧 Utility Functions
 - **🔒 Encryption**    
